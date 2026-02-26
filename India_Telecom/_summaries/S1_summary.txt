@@ -1,0 +1,10 @@
+India Telecom Sector Base Reality -- Key Takeaways (S1 Summary)
+
+India's telecom sector generated Rs 3.72 lakh crore (~US$43.4B) in FY25 gross revenue, up 10.7% YoY.
+The market has consolidated into a functional duopoly: Jio (39.3%) and Airtel (37.2%) together hold ~76.5% wireless subscriber share (HHI ~3,240).
+Total wireless subscribers stand at ~1.24 billion (Dec 2025); 5G subscribers have crossed 400 million, making India the #2 5G market globally.
+ARPU is on a structural uptrend -- Airtel at Rs 256, Jio at Rs 211 (Q2 FY26) -- with a 15-20% tariff hike expected in H1 2026.
+Capex is declining post-5G buildout (Jio capex down ~40% from FY24 peak), setting the stage for significant free cash flow expansion.
+Vodafone Idea remains a going-concern risk (198M subs, 16% share, Rs 2L Cr+ debt) despite government AGR relief; its survival is the sector's key swing factor.
+Fixed broadband (<15% household penetration) and rural mobile (37% internet penetration) represent the largest untapped growth opportunities.
+The Jio IPO (expected H1 2026, US$130-240B valuation) will be a major sector catalyst, establishing a public market benchmark for Indian telecom.

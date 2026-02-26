@@ -1,0 +1,9 @@
+S2 Sector Comps Matrix — India Telecom — 2026-02-26
+
+Companies seeded: Reliance Jio, Bharti Airtel, Vodafone Idea, BSNL, Indus Towers, Tata Communications (6 total).
+Overall completeness: ~81% (136 of 168 cells filled). Jio and Airtel near-complete (~96-100%); BSNL and Tata Comm lower (~61-64%) due to unlisted/enterprise nature.
+Key gaps: Jio standalone net debt (pre-IPO), BSNL valuation metrics (govt entity), Vi exact capex, Tata Comm net debt/RoCE specifics.
+Market structure: Effective duopoly — Jio (41% sub share) and Airtel (34%) dominate; Vi declining, BSNL stabilizing at ~8%.
+Valuation spread: Operators trade at 16-19x EV/EBITDA; Indus Towers at ~6.5x with 46% RoCE; Vi distorted by ~20x net debt/EBITDA.
+Major catalyst: Jio Platforms IPO expected H1 CY2026 at $134-170 bn valuation — sector re-rating event.
+Data sourced from: RIL/Airtel/Vi/Indus/TataCom FY25 results, TRAI subscription data (Oct/Dec 2025), PIB, IBEF, analyst reports.

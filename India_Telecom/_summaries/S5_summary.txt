@@ -1,0 +1,9 @@
+S5 Sector Source Map — India Telecom | 2026-02-26
+48 sources cataloged across 10 categories using IDs S51-S98.
+Regulatory (8): TRAI (subscriptions, performance, tariffs, spectrum), DoT, Ministry of Communications, PRS.
+Company Filings (6): Bharti Airtel, Reliance Jio/RIL, Vodafone Idea, Indus Towers, Tata Communications, BSNL.
+Industry & Data (10): COAI, AUSPI, GSMA Intelligence, DIPA, Ericsson Mobility Report, Statista, IBEF, Gartner, IDC, IMARC.
+Sell-Side (7): Goldman Sachs, Morgan Stanley, Jefferies, CLSA, Motilal Oswal, ICICI Securities, others (paid access).
+News & Media (7): ETTelecom, Business Standard, Mint, TelecomLead, Light Reading, TelecomTalk, Communications Today.
+Tower/Infra (3) + Spectrum (2) + Policy (2) + Financial Aggregators (3) round out coverage.
+TRAI monthly subscriber data and quarterly performance indicators are the highest-value free sources for modeling.
